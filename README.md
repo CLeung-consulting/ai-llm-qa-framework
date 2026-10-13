@@ -1,4 +1,4 @@
-# Evolving QA Framework for AI/LLM Implementation Testing in 2026
+# Evolving QA Framework for AI/LLM Implementation Testing
 
 To transition from traditional software testing (such as deterministic loan app workflows) to **AI/LLM implementation testing in 2026**, the QA framework must evolve from verifying business logic to evaluating **probabilistic outputs, multi-model version regressions, structured schema compliance, and Human-in-the-Loop (HITL) validation loops**.
 
